@@ -3,12 +3,10 @@
 ### Hi there ☠️ I'm Kishore
 
 [![Instagram Badge](https://img.shields.io/badge/-AshSerena-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=14apdz8187jp6&utm_content=j87fc6h)](https://instagram.com/ash_serenaforever)
-[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
-[![Youtube Badge](https://img.shields.io/badge/-codingpotter-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/codingpotter)](https://www.youtube.com/codingpotter)
-[![Twitter Badge](https://img.shields.io/badge/-codingpotter-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/codingpotter)
-<a href="https://dhanrajdc7.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
-<a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
+[![Telegram Badge](https://img.shields.io/badge/-AASFCYBERKING-blue?style=plastic-square&logo=Telegram&logoColor=white&link=https://t.me/AASFCYBERKING)](https://t.me/AASFCYBERKING)
+[![Youtube Badge](https://img.shields.io/badge/-KishoreTech-red?style=plastic-square&logo=youtube&logoColor=white&link=https://youtube.com/c/KishoreTech)](https://youtube.com/c/KishoreTech)
+[![BLOGGER Badge](https://img.shields.io/badge/-KishoreTech-orange?style=plastic-square&logo=blogger&logoColor=white&link=https://blog-by-kishoretech.blogspot.com/?m=1)](https://blog-by-kishoretech.blogspot.com/?m=1)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AASFCYBERKING)
 
 
 ## ABOUT ME
