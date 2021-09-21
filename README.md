@@ -12,30 +12,19 @@
 ## ABOUT ME
 𝗔 𝗕𝗼𝘆 🙋 𝗪𝗶𝘁𝗵 𝗠𝗮𝗻𝘆 𝗗𝗿𝗲𝗮𝗺𝘀 💭 𝗔 𝗣𝗿𝗼 𝗖𝗼𝗱𝗱𝗲𝗿 🖥️. 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 [𝗣𝗶𝗴𝗮𝘀𝘂𝘀 𝗫 𝗧𝗲𝗮𝗺 🦄](https://telegram.me/PigasusUpdates) 𝗔𝗻𝗱 𝗔 𝗬𝗼𝘂𝗧𝘂𝗯𝗲𝗿, 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 , 𝗲𝘁𝗰
 
-- 🍎 WWDC 2021 Scholar
-- 🎬 YouTuber @ [Coding Potter](https://www.youtube.com/codingpotter)
-- 🌟 Microsoft Learn Student Ambassador
-- ⚡️ Auth0 Ambassador
-- 👨🏻‍💻 Indie App Developer
-- 🔭 Open Source Enthusiastic
-
+- ☠️ A Pro Coder
+- ▶️ Normal YouTuber
+- 🖼️ A Professional Logo Maker
+- 📞 A Big Telegram Addicted
+- 🇮🇳 A Indian Coder
+- ©️  Copyright 2021
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=AASFCYBERKING&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AASFCYBERKING&theme=radical"/>|
 |---|---|
 
-
-# Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Unboxing GitHub Field Day India Goodies](https://www.youtube.com/watch?v=tYIjodgi4oU)
-- [Auth0 Swags Unboxing #2](https://www.youtube.com/watch?v=QVdPENURcds)
-- [Use Azure as your personal computer ft  VSCode | MLSA Event #3](https://www.youtube.com/watch?v=nuk3Sinnc4g)
-- [Facilitator Swags Unboxing | GoogleCloudReady 2021](https://www.youtube.com/watch?v=BSCDzmHhuJM)
-- [MyMeets App Promo | Download Now](https://www.youtube.com/watch?v=bJZEyVJCLoI)
-<!-- YOUTUBE:END -->
-
-# Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Simplified: Authentication & Authorization](https://dev.to/dhanrajdc7/simplified-authentication-authorization-1nhb)
-- [🔥 Top 10 Most Useful Coding Tools & Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
-<!-- BLOG-POST-LIST:END -->
+# CURRENTLY WORKING
+<!-- CURRENTLY-WORKING:START -->
+- [𝗦𝗘𝗥𝗘𝗡𝗔](https://t.me/SerenaYvonneRobot)
+- [𝗠𝗜𝗦𝗧𝗬](https://t.me/MistyWilliamsRobot)
+<!-- CURRENTLY-WORKING:END -->
