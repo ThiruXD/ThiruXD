@@ -2,7 +2,7 @@
 
 ### Hi there ☠️ I'm Kishore
 
-[![Instagram Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://instagram.com/codingpotter)
+[![Instagram Badge](https://img.shields.io/badge/-AshSerena-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=14apdz8187jp6&utm_content=j87fc6h/)](https://www.instagram.com/invites/contact/?i=14apdz8187jp6&utm_content=j87fc6h)
 [![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
 [![Youtube Badge](https://img.shields.io/badge/-codingpotter-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/codingpotter)](https://www.youtube.com/codingpotter)
 [![Twitter Badge](https://img.shields.io/badge/-codingpotter-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/codingpotter)
