@@ -1,16 +1,43 @@
-### Hi there 👋
+<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/back.png"/></a>
 
-<!--
-**AASFCYBERKING/AASFCYBERKING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there ☠️ I'm Kishore
 
-Here are some ideas to get you started:
+[![Instagram Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://instagram.com/codingpotter)
+[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
+[![Youtube Badge](https://img.shields.io/badge/-codingpotter-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/codingpotter)](https://www.youtube.com/codingpotter)
+[![Twitter Badge](https://img.shields.io/badge/-codingpotter-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/codingpotter)
+<a href="https://dhanrajdc7.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
+<a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ABOUT ME
+Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
+
+- 🍎 WWDC 2021 Scholar
+- 🎬 YouTuber @ [Coding Potter](https://www.youtube.com/codingpotter)
+- 🌟 Microsoft Learn Student Ambassador
+- ⚡️ Auth0 Ambassador
+- 👨🏻‍💻 Indie App Developer
+- 🔭 Open Source Enthusiastic
+
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+|---|---|
+
+
+# Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Unboxing GitHub Field Day India Goodies](https://www.youtube.com/watch?v=tYIjodgi4oU)
+- [Auth0 Swags Unboxing #2](https://www.youtube.com/watch?v=QVdPENURcds)
+- [Use Azure as your personal computer ft  VSCode | MLSA Event #3](https://www.youtube.com/watch?v=nuk3Sinnc4g)
+- [Facilitator Swags Unboxing | GoogleCloudReady 2021](https://www.youtube.com/watch?v=BSCDzmHhuJM)
+- [MyMeets App Promo | Download Now](https://www.youtube.com/watch?v=bJZEyVJCLoI)
+<!-- YOUTUBE:END -->
+
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Simplified: Authentication & Authorization](https://dev.to/dhanrajdc7/simplified-authentication-authorization-1nhb)
+- [🔥 Top 10 Most Useful Coding Tools & Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
+<!-- BLOG-POST-LIST:END -->
