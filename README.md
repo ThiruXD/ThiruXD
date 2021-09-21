@@ -10,7 +10,7 @@
 
 
 ## ABOUT ME
-Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
+𝗔 𝗕𝗼𝘆 🙋 𝗪𝗶𝘁𝗵 𝗠𝗮𝗻𝘆 𝗗𝗿𝗲𝗮𝗺𝘀 💭 𝗔 𝗣𝗿𝗼 𝗖𝗼𝗱𝗱𝗲𝗿 🖥️. 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 [𝗣𝗶𝗴𝗮𝘀𝘂𝘀 𝗫 𝗧𝗲𝗮𝗺 🦄](https://telegram.me/PigasusUpdates) 𝗔𝗻𝗱 𝗔 𝗬𝗼𝘂𝗧𝘂𝗯𝗲𝗿, 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 , 𝗲𝘁𝗰
 
 - 🍎 WWDC 2021 Scholar
 - 🎬 YouTuber @ [Coding Potter](https://www.youtube.com/codingpotter)
