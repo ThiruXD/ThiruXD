@@ -3,7 +3,7 @@
 ### Hi there ☠️ I'm Hacker
 
 [![Instagram Badge](https://img.shields.io/badge/-AshSerena-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=14apdz8187jp6&utm_content=j87fc6h)](https://instagram.com/ash_serenaforever)
-[![Telegram Badge](https://img.shields.io/badge/-AASFCYBERKING-blue?style=plastic-square&logo=Telegram&logoColor=white&link=https://t.me/AASFCYBERKING)](https://t.me/AASFCYBERKING)
+[![Telegram Badge](https://img.shields.io/badge/-Hacker-blue?style=plastic-square&logo=Telegram&logoColor=white&link=https://t.me/HMF_OWNER_1)](https://t.me/HMF_OWNER_1)
 [![Youtube Badge](https://img.shields.io/badge/-KishoreTech-red?style=plastic-square&logo=youtube&logoColor=white&link=https://youtube.com/c/KishoreTech)](https://youtube.com/c/KishoreTech)
 [![BLOGGER Badge](https://img.shields.io/badge/-KishoreTech-orange?style=plastic-square&logo=blogger&logoColor=white&link=https://blog-by-kishoretech.blogspot.com/?m=1)](https://blog-by-kishoretech.blogspot.com/?m=1)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AASFCYBERKING)
