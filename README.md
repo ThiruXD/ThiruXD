@@ -2,15 +2,13 @@
 
 ### Hi there ☠️ I'm Hacker
 
-[![Instagram Badge](https://img.shields.io/badge/-AshSerena-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=14apdz8187jp6&utm_content=j87fc6h)](https://instagram.com/ash_serenaforever)
+[![Instagram Badge](https://img.shields.io/badge/-HMF-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=14apdz8187jp6&utm_content=j87fc6h)](https://instagram.com/Hollywood_movies_forever)
 [![Telegram Badge](https://img.shields.io/badge/-Hacker-blue?style=plastic-square&logo=Telegram&logoColor=white&link=https://t.me/HMF_OWNER_1)](https://t.me/HMF_OWNER_1)
-[![Youtube Badge](https://img.shields.io/badge/-KishoreTech-red?style=plastic-square&logo=youtube&logoColor=white&link=https://youtube.com/c/KishoreTech)](https://youtube.com/c/KishoreTech)
-[![BLOGGER Badge](https://img.shields.io/badge/-KishoreTech-orange?style=plastic-square&logo=blogger&logoColor=white&link=https://blog-by-kishoretech.blogspot.com/?m=1)](https://blog-by-kishoretech.blogspot.com/?m=1)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AASFCYBERKING)
 
 
 ## ABOUT ME
-𝗔 𝗕𝗼𝘆 🙋 𝗪𝗶𝘁𝗵 𝗠𝗮𝗻𝘆 𝗗𝗿𝗲𝗮𝗺𝘀 💭 𝗔 𝗣𝗿𝗼 𝗖𝗼𝗱𝗱𝗲𝗿 🖥️. 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 [𝗣𝗶𝗴𝗮𝘀𝘂𝘀 𝗫 𝗧𝗲𝗮𝗺 🦄](https://telegram.me/PigasusUpdates) 𝗔𝗻𝗱 𝗔 𝗬𝗼𝘂𝗧𝘂𝗯𝗲𝗿, 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 , 𝗲𝘁𝗰
+𝗔 𝗕𝗼𝘆 🙋 𝗪𝗶𝘁𝗵 𝗠𝗮𝗻𝘆 𝗗𝗿𝗲𝗮𝗺𝘀 💭 𝗔 𝗣𝗿𝗼 𝗖𝗼𝗱𝗱𝗲𝗿 🖥️. 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 [𝗖𝗿𝗶𝗻𝗴𝗲 𝗫 𝗧𝗲𝗮𝗺 🤖](https://telegram.me/PigasusUpdates) 𝗔𝗻𝗱 𝗔 𝗬𝗼𝘂𝗧𝘂𝗯𝗲𝗿, 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 , 𝗲𝘁𝗰
 
 - ☠️ A Pro Coder
 - ▶️ Normal YouTuber
@@ -26,5 +24,4 @@
 # CURRENTLY WORKING
 <!-- CURRENTLY-WORKING:START -->
 - [𝐖𝐨𝐥𝐟 𝐗](https://t.me/WolfXRobot)
-- [𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐦𝐚𝐤𝐞𝐫 𝐛𝐨𝐭](https://t.me/movies_forever_bot)
 <!-- CURRENTLY-WORKING:END -->
