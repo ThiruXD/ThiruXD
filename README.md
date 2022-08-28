@@ -1,6 +1,7 @@
 
 ### Hi there 👋, I'm Thiru! (Noob).
 
+<a href="https://telegram.me/HMF_OWNER_1"><img align="center" src="https://telegra.ph/file/9de8ab0e0d022f6058540.jpg"/></a>
 
 
 Hey, I'm HMF-Hacker, a Web Developer 🚀, Telegram Bot Developer from India. ~~And a Weeb.~~
