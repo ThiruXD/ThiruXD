@@ -1,27 +1,50 @@
-<a href="https://telegram.me/HMF_OWNER_1"><img align="center" src="https://telegra.ph/file/9de8ab0e0d022f6058540.jpg"/></a>
 
-### Hi there ☠️ I'm Hacker
-
-[![Instagram Badge](https://img.shields.io/badge/-HMF-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=14apdz8187jp6&utm_content=j87fc6h)](https://instagram.com/Hollywood_movies_forever)
-[![Telegram Badge](https://img.shields.io/badge/-Hacker-blue?style=plastic-square&logo=Telegram&logoColor=white&link=https://t.me/HMF_OWNER_1)](https://t.me/HMF_OWNER_1)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AASFCYBERKING)
+### Hi there 👋, I'm Thiru! (Noob).
 
 
-## ABOUT ME
-𝗔 𝗕𝗼𝘆 🙋 𝗪𝗶𝘁𝗵 𝗠𝗮𝗻𝘆 𝗗𝗿𝗲𝗮𝗺𝘀 💭 𝗔 𝗣𝗿𝗼 𝗖𝗼𝗱𝗱𝗲𝗿 🖥️. 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 [𝗖𝗿𝗶𝗻𝗴𝗲 𝗫 𝗧𝗲𝗮𝗺 🤖](https://telegram.me/PigasusUpdates) 𝗔𝗻𝗱 𝗔 𝗬𝗼𝘂𝗧𝘂𝗯𝗲𝗿, 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 , 𝗲𝘁𝗰
 
-- ☠️ A Pro Coder
-- ▶️ Normal YouTuber
-- 🖼️ A Professional Logo Maker
-- 📞 A Big Telegram Addicted
-- 🇮🇳 A Indian Coder
-- ©️  Copyright 2021
+Hey, I'm HMF-Hacker, a Web Developer 🚀, Telegram Bot Developer from India. ~~And a Weeb.~~
 
-## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=AASFCYBERKING&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AASFCYBERKING&theme=radical"/>|
-|---|---|
+ **Information:**
 
-# CURRENTLY WORKING
-<!-- CURRENTLY-WORKING:START -->
-- [𝐖𝐨𝐥𝐟 𝐗](https://t.me/WolfXRobot)
-<!-- CURRENTLY-WORKING:END -->
+- 🔭 I’m currently working on  **Open Source Projects , Telegram Bots.**
+- 🌱 I’m currently learning  **Python, HTML.**
+- 👯 I’m looking to collaborate on **More Open Source Projects.**
+- 💬 Ask me about  Anything related to **Tech.**
+- 📫 Contact me at :  **t.me/HMF_Owner_1**
+- 😄 Pronouns :  **He/Him.**
+- ⚡ Fun fact : **JavaScript >>>> Python.**
+
+## Streak
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoeZilla&theme=dark"/></p>
+
+<br>
+
+---
+<a href=
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
+<code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
+<code><img height="20" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></code>
+<code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
+<code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
+<code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
+
+
+
+
+
+**Stats:**  
+
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MoeZilla&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MoeZilla&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&theme=tokyonight&hide=batchfile">
