@@ -12,7 +12,7 @@ Hey, I'm HMF-Hacker, a Web Developer 🚀, Telegram Bot Developer from India. ~~
 - 🌱 I’m currently learning  **Python, HTML.**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 💬 Ask me about  Anything related to **Tech.**
-- 📫 Contact me at :  **t.me/HMF_Owner_1**
+- 📫 Contact me at :  **[Hacker](t.me/HMF_owmer_1)**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
