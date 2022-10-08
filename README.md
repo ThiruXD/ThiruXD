@@ -17,7 +17,7 @@ Hey, I'm HMF-Hacker, a Web Developer 🚀, Telegram Bot Developer from India. ~~
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
 ## Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiruselvan999&theme=dark"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&theme=dark"/></p>
 
 <br>
 
@@ -42,15 +42,15 @@ Hey, I'm HMF-Hacker, a Web Developer 🚀, Telegram Bot Developer from India. ~~
 
 
 <p align="center">
-  <a href="https://github.com/Thiruselvan999">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiruselvan999#version3"/>
+  <a href="https://github.com/ThiruXD">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThirusXD#version3"/>
   </a>
 </p>
-<a href="https://github.com/Thiruselvan999"><img alt="Thiruselvan999 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thiruselvan999&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ThiruXD"><img alt="ThiruXD Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ThiruXD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Thiruselvan999&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Thiruselvan999&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiruselvan999&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ThiruXD&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThirusXD&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&theme=tokyonight&hide=batchfile">
