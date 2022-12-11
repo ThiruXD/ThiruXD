@@ -43,7 +43,7 @@ Hey, I'm HMF-Hacker, a Web Developer 🚀, Telegram Bot Developer from India. ~~
 
 <p align="center">
   <a href="https://github.com/ThiruXD">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThirusXD#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD#version3"/>
   </a>
 </p>
 <a href="https://github.com/ThiruXD"><img alt="ThiruXD Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ThiruXD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
@@ -53,4 +53,4 @@ Hey, I'm HMF-Hacker, a Web Developer 🚀, Telegram Bot Developer from India. ~~
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ThiruXD&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThirusXD&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThiruXD&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&theme=tokyonight&hide=batchfile">
