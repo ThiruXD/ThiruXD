@@ -1,56 +1,68 @@
+<h1 align="center">Hi 👋, I'm Thiruselvan</h1> <h3 align="center">A passionate Programmer from India</h3>
 
-### Hi there 👋, I'm Thiru!.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&center=true&vCenter=true&width=450&height=150&lines=Thiru+XD;A+Newbie+Developer;Freelancer;Bot+Maker)](https://git.io/typing-svg) 
 
-<a href="https://telegram.me/HMF_OWNER_1"><img align="center" src="https://telegra.ph/file/cd369d3c5c58b482761ab.jpg"/></a>
+## Profile views counter 
+![Visitor Count](https://profile-counter.glitch.me/ThiruXD/count.svg) 
+- 🔭 I’m currently adjusting my hobbies with personal life 😐 
+- 🌱 I’m currently learning everything, literally 🤓 
+- 👯 I’m looking to collaborate on projects of other developers/programmers 
+- 🤔 I’m looking for help with any of my projects which are not efficient 🙁 
+- 🥅 2023 Goals: Contribute more to Open Source projects; because, why not! 
+- ⚡ Fun fact: I'm just 18 .
 
-
-Hey, I'm HMF-Hacker, a Web Developer 🚀, Telegram Bot Developer from India. ~~And a Weeb.~~
-
- **Information:**
-
-- 🔭 I’m currently working on  **Open Source Projects , Telegram Bots.**
-- 🌱 I’m currently learning  **Python, HTML.**
-- 👯 I’m looking to collaborate on **More Open Source Projects.**
-- 💬 Ask me about  Anything related to **Tech.**
-- 📫 Contact me at :  **[Hacker](t.me/HMF_owmer_1)**
-- 😄 Pronouns :  **He/Him.**
-- ⚡ Fun fact : **JavaScript >>>> Python.**
+<h3 align="left">🔨 Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.python.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
+        />
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
+        />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+        />
+    </a>
+    <a href="https://mongodb.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
+        />
+    </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
+        />
+    </a>
+    <a href="https://json.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
+        />
+    </a>
+</p>
 
 ## Streak
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&theme=dark"/></p>
 
-<br>
 
----
-<a href=
-**Languages and Tools:**  
+## HERE IS A JOKE FOR YOU
+ 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+ ## 📈 My Github Stats!
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiruXD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiruXD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiruXD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiruXD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiruXD&theme=github_dark&utcOffset=8)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
-<code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
-<code><img height="20" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></code>
-<code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
-<code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
-<code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
-
-
-<p align="center">
-  <a href="https://github.com/ThiruXD">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD#version3"/>
-  </a>
-</p>
-<a href="https://github.com/ThiruXD"><img alt="ThiruXD Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ThiruXD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-**Stats:**  
-
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ThiruXD&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThiruXD&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&theme=tokyonight&hide=batchfile">
