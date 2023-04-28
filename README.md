@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiruselvan</h1> <h3 align="center">A passionate Programmer from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&center=true&vCenter=true&width=450&height=150&lines=Thiru+XD;A+Newbie+Developer;Freelancer;Bot+Maker)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&center=true&vCenter=true&width=450&height=150&lines=Thiru+XD;Web+Developer;Freelancer;Bot+Maker;Python+Developer;Cracker:Carder)](https://git.io/typing-svg) 
 
 ## Profile views counter 
 ![Visitor Count](https://profile-counter.glitch.me/ThiruXD/count.svg) 
