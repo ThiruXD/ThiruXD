@@ -47,25 +47,23 @@
 class ThiruXD:
     def __init__(self):
         self.name = "ThiruXD"
+        self.age = 19
         self.location = "Tamilnadu, India 🇮🇳"
         self.education = "BTecah in CS at GCU | Electronics and Communication Engineering (ECE at PSV) "
-        
-        self.core_skills = ["Backend Development", "Database Architecture", "Wordpress Development"]
-        self.ai_skills = ["Prompt Engineering", "LLM Integration", "AI Automation"]
+        self.core_skills = ["Backend Development", "Backend Development (Basic)", "Wordpress Development"]
         self.specialty = "Serverless Web Development, Telegram Bots & System Automation"
         
     def current_focus(self):
         return ["Building AI-powered applications", "Mastering LLM APIs", "Cloud Native Development", "Blockchain Integration"]
     
     def fun_fact(self):
-        return "I automate everything from software to mechine... 🤖"
+        return "I automate everything from software to machine... 🤖"
 ```
-
 ---
 
 ## 🛠️ Tech Arsenal
 
-<details>
+<details align="center">
 <summary><b>🔥 Click to expand my full tech stack</b></summary>
 <br>
 
@@ -91,11 +89,16 @@ class ThiruXD:
 
 ### ☁️ DevOps & Cloud & Serverless 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,heroku,cloudflare,git,netlify,vercel&theme=dark" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,heroku,cloudflare,netlify,vercel,replit&theme=dark" alt="DevOps"/>
 
-  ### ☁️ No-Code Platforms 
+### ☁️ No-Code Platforms 
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" alt="DevOps"/>
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode&theme=dark" alt="DevOps"/>
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -113,7 +116,6 @@ class ThiruXD:
   <img src="https://img.shields.io/badge/Telethon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"/>
   <img src="https://img.shields.io/badge/Telegram Webhook-5865F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord.py"/>
 </p>
-
 </details>
 
 ---
@@ -166,7 +168,7 @@ class ThiruXD:
 ---
 
 ## ⏳ Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&theme=dark"/></p>
 
 ---
 
@@ -181,6 +183,8 @@ class ThiruXD:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiruXD&theme=github_dark&utcOffset=5.5)
 
 </div>
+
+---
 
 ## 🎭 Here is Joke For You
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </p>
