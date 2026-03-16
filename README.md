@@ -8,7 +8,7 @@
 
 <!-- Profile Views & Followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ThiruXD&label=Profile%20views&color=blueviolet&style=for-the-badge&base=1000" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ThiruXD&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <a href="https://github.com/ThiruXD?tab=followers">
     <img src="https://img.shields.io/github/followers/ThiruXD?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
   </a>
