@@ -250,19 +250,11 @@ class ThiruXD:
 </details>
 
 <details>
-<summary><b>🐍 Live Contribution Snake (one-time setup, ~2 min)</b></summary>
+<summary><b>🐍 Live Contribution Snake</b></summary>
 <br>
 
-This animated snake eats through your contribution graph and repaints itself daily. It needs a tiny GitHub Action in your own <code>ThiruXD/ThiruXD</code> repo — it will **not** render until that Action runs once. Steps:
-
-1. In the repo, go to **Settings → Actions → General** and enable *Read and write permissions*.
-2. Create `.github/workflows/snake.yml` with the [platane/snk](https://github.com/Platane/snk) action (copy-paste example in that repo's README).
-3. Run the workflow once from the **Actions** tab.
-4. Then this line will light up:
-
-```md
 <img src="https://raw.githubusercontent.com/ThiruXD/ThiruXD/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-```
+
 
 </details>
 
