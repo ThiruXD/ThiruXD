@@ -3,14 +3,11 @@
 <img src="./banner.svg" width="100%" alt="ThiruXD banner"/>
 
 <br/>
-
 <a href="#about"><img src="https://img.shields.io/badge/-About-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
 <a href="#journey"><img src="https://img.shields.io/badge/-Journey-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
 <a href="#stack"><img src="https://img.shields.io/badge/-Tech%20Stack-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
 <a href="#dashboard"><img src="https://img.shields.io/badge/-Dashboard-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
 <a href="#connect"><img src="https://img.shields.io/badge/-Connect-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=C9B8F0&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Prompt+Engineering+Expert+%E2%9C%A8;Telegram+Bot+Architect+%F0%9F%92%AC" alt="Typing SVG"/>
 
@@ -233,12 +230,20 @@ class ThiruXD:
 <br>
 
 <div align="center">
+<!-- Stats -->
+![](https://github-readme-stats.vercel.app/api?username=ThiruXD&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiruXD&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiruXD&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiruXD&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiruXD&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiruXD&theme=github_dark&utcOffset=5.5)
+<!-- Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&layout=compact&theme=github_dark&hide_border=true)
+
+<!-- Streak -->
+![](https://streak-stats.demolab.com?user=ThiruXD&theme=github-dark&hide_border=true)
+
+<!-- Activity Graph -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=ThiruXD&theme=github-dark&hide_border=true)
+
+<!-- Trophies -->
+![](https://github-profile-trophy.vercel.app/?username=ThiruXD&theme=github_dark&no-frame=true)
 
 </div>
 
