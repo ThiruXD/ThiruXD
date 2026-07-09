@@ -122,7 +122,7 @@ class ThiruXD:
 ## Tech Arsenal
 
 <details align="center">
-<summary><b>🔥 Click to expand my full tech stack</b></summary>
+<summary><b>Click to expand my full tech stack</b></summary>
 <br>
 
 ### Languages 
@@ -145,11 +145,11 @@ class ThiruXD:
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases"/>
 </p>
 
-### ☁️ DevOps & Cloud & Serverless 
+### DevOps & Cloud & Serverless 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,aws,heroku,cloudflare,netlify,vercel,replit&theme=dark" alt="DevOps"/>
 
-### ☁️ No-Code Platforms 
+### No-Code Platforms 
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" alt="DevOps"/>
 </p>
@@ -159,7 +159,7 @@ class ThiruXD:
   <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode&theme=dark" alt="DevOps"/>
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
@@ -168,7 +168,7 @@ class ThiruXD:
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-### 🤖 Bot Development
+### Bot Development
 <p>
   <img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Pyrogram"/>
   <img src="https://img.shields.io/badge/Telethon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"/>
@@ -178,12 +178,12 @@ class ThiruXD:
 
 ---
 
-## ⏳ Streak
+## Streak
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&theme=dark"/></p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -197,6 +197,6 @@ class ThiruXD:
 
 ---
 
-## 🎭 Here is Joke For You
+## Here is Joke For You
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </p>
 
