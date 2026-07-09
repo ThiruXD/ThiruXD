@@ -17,7 +17,6 @@
 <!-- Skill Badges -->
 <p>
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-Pro-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-Enthusiast-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Development-Expert-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
@@ -41,48 +40,107 @@
 
 ---
 
-## ⚡ Who am i
+## Who am i
 
 ```python
 class ThiruXD:
     def __init__(self):
         self.name = "ThiruXD"
         self.age = 19
-        self.location = "Tamilnadu, India 🇮🇳"
-        self.education = "BTecah in Computer Science at GCU | Electronics and Communication Engineering (ECE) at PSV "
-        self.core_skills = ["Backend Development", "Backend Development (Basic)", "Wordpress Development"]
-        self.specialty = "Serverless Web Development, Telegram Bots & System Automation"
-        
-    def current_focus(self):
-        return ["Building AI-powered applications", "Mastering LLM APIs", "Cloud Native Development", "Blockchain Integration"]
-    
-    def fun_fact(self):
-        return "I automate everything from software to machine... 🤖"
+        self.location = "Tamil Nadu, India 🇮🇳"
+
+        self.education = (
+            "B.Tech in Computer Science (Lateral Entry) at GCU [2025 - present]",
+            "Diploma in Electronics & Communication Engineering (ECE) at PSV College [2022 - 2024]"
+        )
+
+        self.core_skills = [
+            "Backend Development",
+            "Frontend Development (intermediate)",
+            "WordPress Development",
+            "AI-assisted Development",
+        ]
+
+
+    def currently_learning(self):
+        return [
+            "System Design",
+            "Data Structures & Algorithms",
+            "DevOps & Cloud",
+            "AI-assisted Development"
+        ]
+
+    def journey(self):
+        return {
+            2020: (
+                "Started exploring Telegram bots during the COVID-19 lockdown."
+            ),
+
+            2021: (
+                "Learned the basics of Python and deployed my first Telegram bot "
+                "on Heroku's free tier using open-source projects. "
+                "Built my first bot, Wolf X Robot, featuring group management "
+                "and voice chat music playback."
+            ),
+
+            2022: (
+                "Improved my Python and MongoDB skills through YouTube and "
+                "W3Schools. Added custom fun and utility modules to Wolf X Robot "
+                "while pursuing my first year of ECE diploma."
+            ),
+
+            2023: (
+                "Wolf X Robot unexpectedly grew to 140K+ users across 2,000+ "
+                "Telegram groups. Started deploying more bots, freelancing for "
+                "Telegram clients, and experimenting with AI-assisted development "
+                "using ChatGPT and Google Bard during my second year of diploma."
+            ),
+
+            2024: (
+                "Shifted my focus toward Software Engineering and Computer Science. "
+                "Started learning backend architecture, APIs, MongoDB, Flask, "
+                "FastAPI, and web fundamentals (HTML, CSS, JavaScript), while "
+                "also exploring WordPress development."
+            ),
+
+            2025: (
+                "Dived deeper into Open Source and FOSS. Learned React, Tailwind CSS, "
+                "and started building full-stack applications with AI. "
+                "Joined B.Tech in Computer Science through lateral entry after "
+                "completing my diploma."
+            ),
+
+            2026: (
+                "Building modern full-stack products, contributing to open source, "
+                "and continuously learning scalable backend architecture, cloud "
+                "technologies, and system design."
+            ),
+        }
 ```
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <details align="center">
 <summary><b>🔥 Click to expand my full tech stack</b></summary>
 <br>
 
-### 💻 Languages 
+### Languages 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,cpp,c&theme=dark" alt="Languages"/>
 </p>
 
-### 🎨 Frontend Libraries and Frameworks  
+### Frontend Libraries and Frameworks  
 <p>
   <img src="https://skillicons.dev/icons?i=html,tailwind,bootstrap,css,react,md&theme=dark" alt="frontend"/>
 </p>
 
-### ⚙️ Backend Libraries and  Frameworks
+### Backend Libraries and  Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,selenium&theme=dark" alt="Frameworks"/>
 </p>
 
-### 🗃️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases"/>
 </p>
@@ -117,53 +175,6 @@ class ThiruXD:
   <img src="https://img.shields.io/badge/Telegram Webhook-5865F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord.py"/>
 </p>
 </details>
-
----
-
-## 🎯 What I Do
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🔧 Backend Development
-- RESTful APIs
-- Microservices Architecture
-- Database Design & Optimization
-- Authentication & Security
-
-</td>
-<td width="50%">
-
-### 🤖 AI & Automation
-- Prompt Engineering for LLMs
-- AI-powered Applications
-- Chatbot Development
-- Workflow Automation
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💬 Bot Development
-- Telegram Bots (Pyrogram/Telethon)
-- Payment Gateway Integration
-- Real-time Messaging Systems
-- User Management Systems
-
-</td>
-<td width="50%">
-
-### ☁️ DevOps
-- Docker Containerization
-- CI/CD Pipelines
-- Cloud Deployment (AWS/VPS)
-- Server Management & Scaling
-
-</td>
-</tr>
-</table>
 
 ---
 
