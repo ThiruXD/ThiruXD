@@ -216,9 +216,9 @@ class ThiruXD:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThiruXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" height="165"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiruXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&count_private=true"/>
 
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiruXD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiruXD&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff" width="95%"/>
