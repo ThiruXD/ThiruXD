@@ -49,7 +49,7 @@ class ThiruXD:
         self.name = "ThiruXD"
         self.age = 19
         self.location = "Tamilnadu, India 🇮🇳"
-        self.education = "BTecah in CS at GCU | Electronics and Communication Engineering (ECE at PSV) "
+        self.education = "BTecah in Computer Science at GCU | Electronics and Communication Engineering (ECE) at PSV "
         self.core_skills = ["Backend Development", "Backend Development (Basic)", "Wordpress Development"]
         self.specialty = "Serverless Web Development, Telegram Bots & System Automation"
         
