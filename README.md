@@ -281,8 +281,7 @@ Loading a random programming joke...
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/221857984-42145499-556f-4dcd-9c31-a4c1462fc588.gif" width="28"/> `contact.sh` <a name="connect"></a>
-
+## <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="28"/> `contact.sh` <a name="connect"></a>
 <div align="center">
 
 ```bash
