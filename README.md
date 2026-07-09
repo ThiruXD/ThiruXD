@@ -260,9 +260,24 @@ class ThiruXD:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="26"/> Dev Joke of the Moment
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="26"/> `fun/random_joke.sh`
 
-<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
+<div align="center">
+
+```bash
+$ curl https://readme-jokes.vercel.app/api
+
+Loading a random programming joke...
+```
+
+<br/>
+
+<img
+  src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%238B5CF6&aColor=%23EC4899&textColor=ffffff&codeColor=%23C9B8F6"
+  alt="Programming Joke"
+/>
+
+</div>
 
 <br/>
 
