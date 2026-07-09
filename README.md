@@ -208,7 +208,7 @@ class ThiruXD:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ThiruXD&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=thiruxd&theme=juicyfresh" alt="GitHub Trophies"/>
 
 <br/>
 
@@ -216,45 +216,21 @@ class ThiruXD:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThiruXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ThiruXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiruXD&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiruXD&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff" width="95%"/>
 
 </div>
-
-<details>
-<summary><b>📊 Extended Summary Cards</b></summary>
-<br>
-
-<div align="center">
-<!-- Stats -->
-![](https://github-readme-stats.vercel.app/api?username=ThiruXD&show_icons=true&theme=github_dark&hide_border=true)
-
-<!-- Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&layout=compact&theme=github_dark&hide_border=true)
-
-<!-- Streak -->
-![](https://streak-stats.demolab.com?user=ThiruXD&theme=github-dark&hide_border=true)
-
-<!-- Activity Graph -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=ThiruXD&theme=github-dark&hide_border=true)
-
-<!-- Trophies -->
-![](https://trophygithubreadmelang.cybee.dpdns.org/?username=thiruxd&theme=juicyfresh)
-
-</div>
-
-</details>
 
 <details>
 <summary><b>🐍 Live Contribution Snake</b></summary>
+
 <br>
 
-<img src="https://raw.githubusercontent.com/ThiruXD/ThiruXD/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
+<img src="https://raw.githubusercontent.com/ThiruXD/ThiruXD/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </details>
 
