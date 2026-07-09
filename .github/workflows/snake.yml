@@ -4,13 +4,21 @@ on:
   schedule:
     # Runs every day at midnight UTC
     - cron: "0 0 * * *"
+
+  # Allows you to run this workflow manually
   workflow_dispatch:
+
+  # Regenerate on every push to main
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
   generate:
+    name: Generate Contribution Snake
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -18,18 +26,19 @@ jobs:
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ThiruXD
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake Animation to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update snake animation"
           keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
