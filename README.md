@@ -1,29 +1,26 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Thiruselvan%20(ThiruXD)&section=header&desc=Backend%20Developer%20%E2%80%A2%20AI/ML%20Enthusiast%20%E2%80%A2%20Blockchain%20Enthusiast&fontSize=51&reversal=false&fontAlign=51&fontAlignY=34&descAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,50:A855F7,100:EC4899&text=Thiruselvan%20(ThiruXD)&section=header&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20AI/ML%20Enthusiast%20•%20Blockchain%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Prompt+Engineering+Expert+%E2%9C%A8;Telegram+Bot+Architect+%F0%9F%92%AC)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Prompt+Engineering+Expert+%E2%9C%A8;Telegram+Bot+Architect+%F0%9F%92%AC" alt="Typing SVG"/>
+</a>
 
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ThiruXD&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/ThiruXD?tab=followers">
-    <img src="https://img.shields.io/github/followers/ThiruXD?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
-</p>
+<br/>
 
-<!-- Skill Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Enthusiast-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Development-Expert-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-</div>
+<img src="https://komarev.com/ghpvc/?username=ThiruXD&label=Profile%20views&color=A855F7&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/ThiruXD?tab=followers">
+  <img src="https://img.shields.io/github/followers/ThiruXD?label=Followers&style=for-the-badge&color=6D28D9&logo=github&logoColor=white" alt="Followers"/>
+</a>
 
-<div align="center">
-<!-- Social Badges -->
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Enthusiast-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Development-Expert-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/><br/>
+
 <a href="mailto:ThiruXD@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -36,11 +33,12 @@
 <a href="https://x.com/ThiruXD">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:EC4899&height=3&section=header"/>
 
-## Who am i
+## 🧠 Who am I
 
 ```python
 class ThiruXD:
@@ -117,25 +115,40 @@ class ThiruXD:
             ),
         }
 ```
----
 
-## Tech Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:EC4899&height=3&section=header"/>
 
-<details align="center">
+## 🗺️ My Journey
+
+<table>
+<tr><td><b>2020</b></td><td>Started exploring Telegram bots during the COVID-19 lockdown.</td></tr>
+<tr><td><b>2021</b></td><td>Learned Python basics and deployed my first Telegram bot (<b>Wolf X Robot</b>) on Heroku's free tier — group management + voice chat music playback.</td></tr>
+<tr><td><b>2022</b></td><td>Leveled up Python & MongoDB skills, added custom fun/utility modules to Wolf X Robot during first year of ECE diploma.</td></tr>
+<tr><td><b>2023</b></td><td>🚀 Wolf X Robot grew to <b>140K+ users</b> across <b>2,000+ Telegram groups</b>. Started freelancing & experimenting with AI-assisted dev (ChatGPT, Google Bard).</td></tr>
+<tr><td><b>2024</b></td><td>Shifted focus to Software Engineering — backend architecture, APIs, MongoDB, Flask, FastAPI, HTML/CSS/JS, and WordPress development.</td></tr>
+<tr><td><b>2025</b></td><td>Dived deeper into Open Source & FOSS, learned React + Tailwind CSS, built full-stack apps with AI, and joined B.Tech CS via lateral entry.</td></tr>
+<tr><td><b>2026</b></td><td>Building modern full-stack products, contributing to open source, and mastering scalable backend architecture, cloud & system design.</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:EC4899&height=3&section=header"/>
+
+## 🛠️ Tech Arsenal
+
+<details open align="center">
 <summary><b>Click to expand my full tech stack</b></summary>
 <br>
 
-### Languages 
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,cpp,c&theme=dark" alt="Languages"/>
 </p>
 
-### Frontend Libraries and Frameworks  
+### Frontend Libraries & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,tailwind,bootstrap,css,react,md&theme=dark" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,tailwind,bootstrap,css,react,md&theme=dark" alt="Frontend"/>
 </p>
 
-### Backend Libraries and  Frameworks
+### Backend Libraries & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,selenium&theme=dark" alt="Frameworks"/>
 </p>
@@ -145,18 +158,19 @@ class ThiruXD:
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases"/>
 </p>
 
-### DevOps & Cloud & Serverless 
+### DevOps, Cloud & Serverless
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,aws,heroku,cloudflare,netlify,vercel,replit&theme=dark" alt="DevOps"/>
+</p>
 
-### No-Code Platforms 
+### No-Code Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" alt="No-Code"/>
 </p>
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode&theme=dark" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode&theme=dark" alt="Tools"/>
 </p>
 
 ### AI & Machine Learning
@@ -172,18 +186,37 @@ class ThiruXD:
 <p>
   <img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Pyrogram"/>
   <img src="https://img.shields.io/badge/Telethon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"/>
-  <img src="https://img.shields.io/badge/Telegram Webhook-5865F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord.py"/>
+  <img src="https://img.shields.io/badge/Telegram%20Webhook-5865F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Webhook"/>
 </p>
+
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:EC4899&height=3&section=header"/>
 
-## Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&theme=dark"/></p>
+## 🏆 Trophy Case
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ThiruXD&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies"/>
+</div>
 
-## GitHub Stats
+## 🔥 Streak
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7"/></p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThiruXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruXD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiruXD&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=EC4899&point=ffffff" alt="Activity Graph" width="95%"/>
+
+</div>
+
+### Extended Summary Cards
 
 <div align="center">
 
@@ -195,8 +228,14 @@ class ThiruXD:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:EC4899&height=3&section=header"/>
 
-## Here is Joke For You
-<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </p>
+## 😄 Dev Joke of the Moment
 
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:6D28D9&height=150&section=footer"/>
+
+<div align="center">
+<i>“Code is like humor. When you have to explain it, it's bad.” — Cory House</i>
+</div>
