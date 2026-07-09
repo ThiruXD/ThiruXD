@@ -266,20 +266,41 @@ class ThiruXD:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/221857984-42145499-556f-4dcd-9c31-a4c1462fc588.gif" width="28"/> `connect` <a name="connect"></a>
+## <img src="https://user-images.githubusercontent.com/74038190/221857984-42145499-556f-4dcd-9c31-a4c1462fc588.gif" width="28"/> `contact.sh` <a name="connect"></a>
 
 <div align="center">
 
-<a href="mailto:ThiruXD@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://telegram.me/ThiruXD"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://linkedin.com/in/ThiruXD"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/ThiruXD"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+```bash
+$ ./contact.sh
+
+📧 Email      → ThiruXD@gmail.com
+💬 Telegram   → @ThiruXD
+💼 LinkedIn   → linkedin.com/in/ThiruXD
+🐦 X          → x.com/ThiruXD
+
+echo "Always open to collaboration and interesting projects 🚀"
+```
+
+<br/>
+
+<a href="mailto:ThiruXD@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://telegram.me/ThiruXD">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ThiruXD">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/ThiruXD">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+> *"Building things, breaking things, and learning something every single day."*
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,50:8B5CF6,100:EC4899&height=120&section=footer"/>
 
