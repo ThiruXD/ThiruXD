@@ -28,7 +28,7 @@
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.gif" width="28"/> `about` <a name="about"></a>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> `about` <a name="about"></a>
 
 <table>
 <tr>
