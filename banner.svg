@@ -1,0 +1,61 @@
+<svg width="100%" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050014"/>
+      <stop offset="55%" stop-color="#1a0b3d"/>
+      <stop offset="100%" stop-color="#2b0a3d"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#EC4899;#A855F7;#8B5CF6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#EC4899">
+        <animate attributeName="stop-color" values="#EC4899;#A855F7;#8B5CF6;#EC4899" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#A855F7">
+        <animate attributeName="stop-color" values="#A855F7;#8B5CF6;#EC4899;#A855F7" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#8B5CF6" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="300" fill="url(#bg)"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+  <circle cx="120" cy="60" r="160" fill="url(#glow1)"/>
+  <circle cx="800" cy="240" r="180" fill="url(#glow2)"/>
+
+  <text x="40" y="55" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#A855F7" opacity="0.85">
+    <tspan>~/portfolio </tspan><tspan fill="#EC4899">git:(main)</tspan><tspan fill="#e5d9ff"> $ whoami</tspan>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+  <rect x="335" y="42" width="10" height="16" fill="#EC4899">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="450" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#txt)" text-anchor="middle" letter-spacing="2">
+    THIRUXD
+  </text>
+
+  <text x="450" y="190" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#c9b8f0" text-anchor="middle" letter-spacing="1">
+    Backend Developer · AI/ML Enthusiast · Blockchain Enthusiast
+  </text>
+
+  <text x="40" y="260" font-family="Fira Code, Consolas, monospace" font-size="13" fill="#7c5cc9" opacity="0.8">
+    {  "role": "Backend Developer",  "focus": ["APIs", "AI Systems", "Bots"],  "based_in": "Tamil Nadu, IN"  }
+  </text>
+
+  <g font-family="Fira Code, Consolas, monospace" font-size="12" fill="#5c3f99" opacity="0.7">
+    <text x="820" y="30">01001000</text>
+    <text x="20" y="290">01000101</text>
+  </g>
+</svg>
