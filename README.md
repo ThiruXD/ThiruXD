@@ -28,7 +28,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> `about` <a name="about"></a>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> `about.sh` <a name="about"></a>
 
 <table>
 <tr>
@@ -204,7 +204,7 @@ class ThiruXD:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"/> `dashboard` <a name="dashboard"></a>
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"/> `dashboard.sh` <a name="dashboard"></a>
 
 <div align="center">
 
