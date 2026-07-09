@@ -1,46 +1,40 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Thiruselvan%20(ThiruXD)&section=header&desc=Backend%20Developer%20%E2%80%A2%20AI/ML%20Enthusiast%20%E2%80%A2%20Blockchain%20Enthusiast&fontSize=51&reversal=false&fontAlign=51&fontAlignY=34&descAlignY=50"/>
+<img src="./banner.svg" width="100%" alt="ThiruXD banner"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Prompt+Engineering+Expert+%E2%9C%A8;Telegram+Bot+Architect+%F0%9F%92%AC)](https://git.io/typing-svg)
+<br/>
+<a href="#about"><img src="https://img.shields.io/badge/-About-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
+<a href="#journey"><img src="https://img.shields.io/badge/-Journey-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/-Tech%20Stack-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
+<a href="#dashboard"><img src="https://img.shields.io/badge/-Dashboard-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/-Connect-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
+<a href="https://thiruxd.is-a.dev/"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
 
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ThiruXD&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/ThiruXD?tab=followers">
-    <img src="https://img.shields.io/github/followers/ThiruXD?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
-</p>
 
-<!-- Skill Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Enthusiast-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Development-Expert-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=C9B8F0&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Prompt+Engineering+Expert+%E2%9C%A8;Telegram+Bot+Architect+%F0%9F%92%AC" alt="Typing SVG"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center"><img src="https://komarev.com/ghpvc/?username=ThiruXD&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/github/followers/ThiruXD?label=FOLLOWERS&style=for-the-badge&color=EC4899&logo=github&logoColor=white"/></td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Enthusiast-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Development-Expert-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </div>
 
-<div align="center">
-<!-- Social Badges -->
-<a href="mailto:ThiruXD@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://telegram.me/ThiruXD">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://linkedin.com/in/ThiruXD">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/ThiruXD">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-</div>
+<br/>
 
----
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> `about.sh` <a name="about"></a>
 
-## Who am i
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class ThiruXD:
@@ -117,49 +111,82 @@ class ThiruXD:
             ),
         }
 ```
----
 
-## Tech Arsenal
+</td>
+<td width="40%" valign="top">
 
-<details align="center">
-<summary><b>Click to expand my full tech stack</b></summary>
+**📍 Quick Facts**
+
+| | |
+|---|---|
+| 🎂 Age | 19 |
+| 🌆 Location | Tamil Nadu, India |
+| 🎓 Now | B.Tech CS @ GCU |
+| 🎓 Before | Diploma ECE @ PSV College |
+| 💼 Focus | Backend + AI-assisted Dev |
+
+**🌱 Currently Learning**
+
+```
+▰▰▰▰▱▱▱▱▱▱  System Design
+▰▰▰▱▱▱▱▱▱▱  DSA
+▰▰▱▱▱▱▱▱▱▱  DevOps & Cloud
+▰▰▰▰▰▰▱▱▱▱  AI-assisted Dev
+```
+
+**⚡ Fun Fact**
+
+> Started coding to build a Telegram bot in lockdown — it later crossed **140,000+ users**. Never stopped shipping since.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> `journey.log` <a name="journey"></a>
+
+<table>
+<tr><th align="left">Year</th><th align="left">Log Entry</th></tr>
+<tr><td valign="top"><code>2020</code></td><td>🌱 Started exploring Telegram bots during the COVID-19 lockdown.</td></tr>
+<tr><td valign="top"><code>2021</code></td><td>🤖 Learned Python basics and deployed my first Telegram bot on Heroku's free tier. Built <b>Wolf X Robot</b> — group management + voice chat music playback.</td></tr>
+<tr><td valign="top"><code>2022</code></td><td>📚 Leveled up Python & MongoDB via YouTube and W3Schools. Added custom fun/utility modules to Wolf X Robot during first year of ECE diploma.</td></tr>
+<tr><td valign="top"><code>2023</code></td><td>🚀 Wolf X Robot exploded to <b>140K+ users</b> across <b>2,000+ Telegram groups</b>. Started freelancing for Telegram clients and experimenting with AI-assisted dev (ChatGPT, Google Bard).</td></tr>
+<tr><td valign="top"><code>2024</code></td><td>🛠️ Pivoted toward Software Engineering — backend architecture, APIs, MongoDB, Flask, FastAPI, HTML/CSS/JS, plus WordPress development.</td></tr>
+<tr><td valign="top"><code>2025</code></td><td>🌍 Went deep into Open Source & FOSS, learned React + Tailwind CSS, built full-stack apps with AI, and joined B.Tech CS via lateral entry.</td></tr>
+<tr><td valign="top"><code>2026</code></td><td>⚙️ Building modern full-stack products, contributing to open source, mastering scalable backend architecture, cloud & system design.</td></tr>
+</table>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28"/> `tech-stack/` <a name="stack"></a>
+
+<details open>
+<summary><b>📂 Click to expand the full stack</b></summary>
 <br>
 
-### Languages 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,c&theme=dark" alt="Languages"/>
-</p>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,js,cpp,c&theme=dark" alt="Languages"/></p>
 
-### Frontend Libraries and Frameworks  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,tailwind,bootstrap,css,react,md&theme=dark" alt="frontend"/>
-</p>
+**Frontend Libraries & Frameworks**
+<p><img src="https://skillicons.dev/icons?i=html,tailwind,bootstrap,css,react,md&theme=dark" alt="Frontend"/></p>
 
-### Backend Libraries and  Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,selenium&theme=dark" alt="Frameworks"/>
-</p>
+**Backend Libraries & Frameworks**
+<p><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,selenium&theme=dark" alt="Frameworks"/></p>
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases"/>
-</p>
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases"/></p>
 
-### DevOps & Cloud & Serverless 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,heroku,cloudflare,netlify,vercel,replit&theme=dark" alt="DevOps"/>
+**DevOps, Cloud & Serverless**
+<p><img src="https://skillicons.dev/icons?i=docker,nginx,aws,heroku,cloudflare,netlify,vercel,replit&theme=dark" alt="DevOps"/></p>
 
-### No-Code Platforms 
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" alt="DevOps"/>
-</p>
+**No-Code Platforms**
+<p><img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" alt="No-Code"/></p>
 
-### Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode&theme=dark" alt="DevOps"/>
-</p>
+**Tools & Others**
+<p><img src="https://skillicons.dev/icons?i=linux,git,postman,vscode&theme=dark" alt="Tools"/></p>
 
-### AI & Machine Learning
+**AI & Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
@@ -168,35 +195,105 @@ class ThiruXD:
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-### Bot Development
+**Bot Development**
 <p>
   <img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Pyrogram"/>
   <img src="https://img.shields.io/badge/Telethon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"/>
-  <img src="https://img.shields.io/badge/Telegram Webhook-5865F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord.py"/>
+  <img src="https://img.shields.io/badge/Telegram%20Webhook-5865F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Webhook"/>
 </p>
+
 </details>
 
----
+<br/>
 
-## Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&theme=dark"/></p>
-
----
-
-## GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"/> `dashboard.sh` <a name="dashboard"></a>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiruXD&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiruXD&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiruXD&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiruXD&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiruXD&theme=github_dark&utcOffset=5.5)
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=thiruxd&theme=juicyfresh" alt="GitHub Trophies"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruXD&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6"/>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiruXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiruXD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiruXD&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff" width="95%"/>
 
 </div>
 
----
+<details>
+<summary><b>🐍 Live Contribution Snake</b></summary>
 
-## Here is Joke For You
-<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </p>
+<br>
 
+<img src="https://raw.githubusercontent.com/ThiruXD/ThiruXD/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</details>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="26"/> `fun/random_joke.sh`
+
+<div align="center">
+
+```bash
+$ curl https://readme-jokes.vercel.app/api
+
+Loading a random programming joke...
+```
+
+<br/>
+
+<img
+  src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%238B5CF6&aColor=%23EC4899&textColor=ffffff&codeColor=%23C9B8F6"
+  alt="Programming Joke"
+/>
+
+</div>
+
+<br/>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="28"/> `contact.sh` <a name="connect"></a>
+<div align="center">
+
+```bash
+$ ./contact.sh
+
+📧 Email      → ThiruXD@gmail.com
+💬 Telegram   → @ThiruXD
+💼 LinkedIn   → linkedin.com/in/ThiruXD
+🐦 X          → x.com/ThiruXD
+
+echo "Always open to collaboration and interesting projects 🚀"
+```
+
+<br/>
+
+<a href="mailto:ThiruXD@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://telegram.me/ThiruXD">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ThiruXD">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/ThiruXD">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"Building things, breaking things, and learning something every single day."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,50:8B5CF6,100:EC4899&height=120&section=footer"/>
+
+</div>
