@@ -8,6 +8,8 @@
 <a href="#stack"><img src="https://img.shields.io/badge/-Tech%20Stack-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
 <a href="#dashboard"><img src="https://img.shields.io/badge/-Dashboard-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
 <a href="#connect"><img src="https://img.shields.io/badge/-Connect-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
+<a href="https://thiruxd.is-a.dev/"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&labelColor=0d1117&color=8B5CF6"/></a>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=C9B8F0&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Prompt+Engineering+Expert+%E2%9C%A8;Telegram+Bot+Architect+%F0%9F%92%AC" alt="Typing SVG"/>
 
