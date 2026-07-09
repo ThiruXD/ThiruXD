@@ -243,7 +243,7 @@ class ThiruXD:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ThiruXD&theme=github-dark&hide_border=true)
 
 <!-- Trophies -->
-![](https://trophygithubreadmelang.cybee.dpdns.org?username=ThiruXD&theme=github_dark&no-frame=true)
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=thiruxd&theme=juicyfresh)
 
 </div>
 
