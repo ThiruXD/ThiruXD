@@ -51,7 +51,7 @@ class ThiruXD:
 
         self.education = (
             "B.Tech in Computer Science (Lateral Entry) at GCU [2025 - present]",
-            "Diploma in Electronics & Communication Engineering (ECE) at PSV College [2022 - 2024]"
+            "Diploma in Electronics & Communication Engineering (ECE) at PSV College [2022 - 2025]"
         )
 
         self.core_skills = [
