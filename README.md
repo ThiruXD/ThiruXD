@@ -45,7 +45,8 @@
 ```python
 class ThiruXD:
     def __init__(self):
-        self.name = "ThiruXD"
+        self.nickname = "ThiruXD"
+        self.name = "Thiruselvan A"
         self.age = 19
         self.location = "Tamil Nadu, India 🇮🇳"
 
